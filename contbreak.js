@@ -16,5 +16,5 @@ while (fuel > 0) {
   }
 }
 
-console.log(distance); // distance = 500
+console.log(distance + " light years"); // distance = 500
 console.log(fuel); // fuel = 601
